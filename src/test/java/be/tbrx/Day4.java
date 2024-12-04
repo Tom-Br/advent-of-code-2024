@@ -37,7 +37,7 @@ public class Day4 {
 
         int xPatterns = findXPatterns(array);
 
-        Assertions.assertThat(xPatterns).isEqualTo(9);
+        Assertions.assertThat(xPatterns).isEqualTo(1822);
 
     }
 
